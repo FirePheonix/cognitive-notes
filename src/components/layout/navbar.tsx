@@ -28,7 +28,7 @@ export function Navbar({
               className="shrink-0 text-lg font-bold tracking-tight"
               style={{ fontFamily: "var(--font-orbitron)" }}
             >
-              Vengeance
+              Vengeance Notes
             </span>
 
             {breadcrumb && breadcrumb.length > 0 ? (

@@ -91,7 +91,7 @@ function defaultState(): AppState {
             content: JSON.stringify([
               {
                 type: "heading-1",
-                children: [{ text: "Welcome to Vengeance" }],
+                children: [{ text: "Welcome to Vengeance Notes" }],
               },
               {
                 type: "paragraph",
