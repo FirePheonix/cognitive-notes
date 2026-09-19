@@ -1,4 +1,4 @@
-# Vengeance
+# Vengeance Notes
 
 Lightweight desktop writing app built with Tauri, React, and Vite.
 
