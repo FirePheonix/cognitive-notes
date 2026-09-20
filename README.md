@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/2ade9d44-25cc-442e-936e-d85cf1ba9069" />
+
+
 # Cognitive Notes
 
 **A lightweight desktop writing app — think Notion + Excalidraw in a single application.**
