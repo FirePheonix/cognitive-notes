@@ -36,7 +36,7 @@ function resolve(theme: Theme): Resolved {
 export function ThemeProvider({ children }: { children: ReactNode }) {
   const [theme, setThemeRaw] = useState<Theme>(() => {
     try {
-      return (localStorage.getItem("vengeance-theme") as Theme) ?? "system";
+      return (localStorage.getItem("cognitive-theme") as Theme) ?? "system";
     } catch {
       return "system";
     }
@@ -45,7 +45,7 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
 
   const setTheme = useCallback((t: Theme) => {
     setThemeRaw(t);
-    localStorage.setItem("vengeance-theme", t);
+    localStorage.setItem("cognitive-theme", t);
   }, []);
 
   useEffect(() => {

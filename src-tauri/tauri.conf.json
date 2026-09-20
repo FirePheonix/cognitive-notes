@@ -1,8 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/nickelpack/nopo/main/crates/tauri-utils/schema.json",
-  "productName": "Vengeance Notes",
+  "productName": "Cognitive Notes",
   "version": "0.2.0",
-  "identifier": "com.vengeance.desktop",
+  "identifier": "com.cognitive.desktop",
   "build": {
     "frontendDist": "../dist",
     "devUrl": "http://localhost:1420",
@@ -13,7 +13,7 @@
     "windows": [
       {
         "label": "main",
-        "title": "Vengeance Notes",
+        "title": "Cognitive Notes",
         "width": 1200,
         "height": 800,
         "minWidth": 800,
@@ -40,7 +40,7 @@
     "windows": {
       "nsis": {
         "installMode": "both",
-        "startMenuFolder": "Vengeance Notes"
+        "startMenuFolder": "Cognitive Notes"
       }
     }
   }

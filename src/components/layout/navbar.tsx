@@ -23,12 +23,12 @@ export function Navbar({
         <div className="flex items-center justify-between py-2.5">
           {/* Left: logo + breadcrumb */}
           <div className="flex min-w-0 items-center gap-3">
-            <LogoIcon className="w-5 shrink-0 rotate-180 text-foreground" />
+            <LogoIcon className="w-6 h-6 shrink-0" />
             <span
               className="shrink-0 text-lg font-bold tracking-tight"
               style={{ fontFamily: "var(--font-orbitron)" }}
             >
-              Vengeance Notes
+              Cognitive Notes
             </span>
 
             {breadcrumb && breadcrumb.length > 0 ? (

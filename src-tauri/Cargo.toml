@@ -1,12 +1,12 @@
 [package]
-name = "vengeance-desktop"
+name = "cognitive-desktop"
 version = "0.1.0"
 description = "Lightweight desktop writing app"
-authors = ["Vengeance"]
+authors = ["Cognitive"]
 edition = "2021"
 
 [lib]
-name = "vengeance_desktop_lib"
+name = "cognitive_desktop_lib"
 crate-type = ["lib", "cdylib", "staticlib"]
 
 [build-dependencies]

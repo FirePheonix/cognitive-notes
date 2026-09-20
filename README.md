@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vengeance Notes
+# Cognitive Notes
 
 **A lightweight desktop writing app — think Notion + Excalidraw in a single application.**
 
@@ -14,11 +14,11 @@
 
 <br />
 
-<img width="1917" height="1015" alt="Vengeance" src="https://github.com/user-attachments/assets/4a9712c0-3e73-497e-ab0b-06df02519af1" />
+<img width="1917" height="1015" alt="Cognitive" src="https://github.com/user-attachments/assets/4a9712c0-3e73-497e-ab0b-06df02519af1" />
 
 </div>
 
-### Learn more about VengeanceUI: https://www.vengeanceui.com/
+### Learn more about CognitiveUI: https://www.CognitiveUI.com/
 
 ## Develop
 

@@ -10,7 +10,7 @@ import {
 
 /* ── Paths ── */
 
-const ROOT_DIR = "vengeance";
+const ROOT_DIR = "cognitive";
 const INDEX_FILE = `${ROOT_DIR}/index.json`;
 const FILES_DIR = `${ROOT_DIR}/files`;
 const DRAWINGS_DIR = `${ROOT_DIR}/drawings`;
@@ -91,7 +91,7 @@ function defaultState(): AppState {
             content: JSON.stringify([
               {
                 type: "heading-1",
-                children: [{ text: "Welcome to Vengeance Notes" }],
+                children: [{ text: "Welcome to Cognitive Notes" }],
               },
               {
                 type: "paragraph",
