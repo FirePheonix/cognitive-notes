@@ -14,7 +14,8 @@
 
 <br />
 
-<img width="1917" height="1015" alt="Cognitive" src="https://github.com/user-attachments/assets/4a9712c0-3e73-497e-ab0b-06df02519af1" />
+<img width="1728" height="962" alt="image" src="https://github.com/user-attachments/assets/3e9650ac-64e2-4020-9f24-f9da06d74a68" />
+
 
 </div>
 
