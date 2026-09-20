@@ -18,7 +18,7 @@
 
 </div>
 
-### Learn more about CognitiveUI: https://www.CognitiveUI.com/
+### Learn more about Cognitive: https://www.getcognitive.in
 
 ## Develop
 
